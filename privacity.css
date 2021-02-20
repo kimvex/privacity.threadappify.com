@@ -5,6 +5,10 @@ html, body {
   background-color: #F5F7F9;
 }
 
+body{
+  margin-bottom: 50px;
+}
+
 .header-title {
   width: 100%;
   text-align: center;
