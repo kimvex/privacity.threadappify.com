@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #F5F7F9;
+}
+
+.header-title {
+  width: 100%;
+  text-align: center;
+}
+
+.header-content {
+  background-color: #009387;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.header-content h1 {
+  margin: 0;
+}
+
+
+.text-header {
+  width: 70%;
+  margin: auto;
+  text-align: justify;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.text-dot-text {
+   width: 70%;
+  margin: auto;
+  text-align: justify;
+  font-size: 16px;
+}
